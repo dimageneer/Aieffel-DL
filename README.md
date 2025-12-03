@@ -1,4 +1,5 @@
 딥러닝 프로젝트 첫번째 가위바위보 입니다
+
 데이터는 아래 사이트에서 제작했습니다 https://teachablemachine.withgoogle.com/
 
 data
